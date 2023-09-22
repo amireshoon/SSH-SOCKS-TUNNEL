@@ -1,0 +1,22 @@
+{
+  "name": "ssh-socks-tunnel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ssh-socks-tunnel.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amireshoon/SSH-SOCKS-TUNNEL.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amireshoon/SSH-SOCKS-TUNNEL/issues"
+  },
+  "homepage": "https://github.com/amireshoon/SSH-SOCKS-TUNNEL#readme",
+  "dependencies": {
+    "minimist": "^1.2.8"
+  }
+}
